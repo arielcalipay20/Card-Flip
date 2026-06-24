@@ -4,7 +4,7 @@ A React + TypeScript application built as a technical exam for ParallelQuantum C
 
 ## Live Demo
 
-https://card-flip-kh9g4syaw-arielcalipay20s-projects.vercel.app
+https://card-flip-l6blzldyo-arielcalipay20s-projects.vercel.app/
 
 ## Features
 
