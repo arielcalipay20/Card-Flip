@@ -2,6 +2,10 @@
 
 A React + TypeScript application built as a technical exam for ParallelQuantum Corp.
 
+## Live Demo
+
+https://card-flip-kh9g4syaw-arielcalipay20s-projects.vercel.app
+
 ## Features
 
 - Deal cards with smooth slide-in animation
