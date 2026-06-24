@@ -1,0 +1,37 @@
+/* Player seat */
+.player-seat-container {
+    background: #0d2b1a;
+    border: 2px solid #2e5c3a;
+    border-radius: 16px;
+    padding: 32px;
+    width: 100%;
+    max-width: 700px;
+}
+
+.player-seat-label {
+    color: #aaaaaa;
+    font-size: 12px;
+    letter-spacing: 2px;
+    text-align: center;
+    margin-bottom: 12px;
+}
+
+.player-seat {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    justify-content: center;
+    min-height: 140px;
+    align-items: flex-end;
+}
+
+.empty-label {
+    color: #555;
+    font-size: 13px;
+    align-self: center;
+}
+
+.hint {
+    color: #888;
+    font-size: 12px;
+}

@@ -1,0 +1,53 @@
+/* Controls */
+.controls {
+    display: flex;
+    gap: 12px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 8px;
+    font-size: 14px;
+    font-weight: semibold;
+    cursor: pointer;
+    transition: opacity 0.2s, transform 0.1s;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.btn span {
+    margin-right: 4px;
+}
+
+.btn:hover {
+    opacity: 0.85;
+    transform: translateY(-1px);
+}
+
+.btn:active {
+    transform: translateY(0);
+}
+
+.btn-deal {
+    background: #1d522c;
+    color: white;
+}
+
+.btn-flip-front {
+    background: #235298;
+    color: white;
+}
+
+.btn-flip-back {
+    background: #9f510a;
+    color: white;
+}
+
+.btn-slide-out {
+    background: #9f2c2a;
+    color: white;
+}
