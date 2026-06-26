@@ -29,3 +29,8 @@ body {
   font-weight: bold;
   letter-spacing: 1px;
 }
+
+.hint {
+  color: #888;
+  font-size: 12px;
+}

@@ -82,7 +82,7 @@
     font-size: 13px;
 }
 
-.bottom {
+.card-corner.bottom {
     transform: rotate(180deg);
 }
 
